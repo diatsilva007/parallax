@@ -28,9 +28,9 @@ h3 {
 }
 
 .caixa1 {
-    
+    background-image: url(/images/imagem1.jpg);
 }
 
-.caixa3 {
-
+.caixa2 {
+    background-image: url(/images/imagem2.jpg);
 }
